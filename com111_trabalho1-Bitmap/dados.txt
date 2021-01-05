@@ -1,0 +1,10 @@
+Breno M 40 N N 1
+Anne F 18 E S 2
+Barbara F 32 N N 3
+Carlos M 63 N S 4
+Daniel M 21 N S 5
+Daniela F 20 N S 6
+Enzo M 10 N N 7
+Edward M 35 E N 8
+Mary F 15 E S 9
+Paul M 62 E S 10
